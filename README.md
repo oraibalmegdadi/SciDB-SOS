@@ -1,0 +1,2 @@
+# SciDB-SOS
+scidb
